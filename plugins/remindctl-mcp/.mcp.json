@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "remindctl-mcp": {
+      "command": "npx",
+      "args": ["-y", "remindctl-mcp"]
+    }
+  }
+}

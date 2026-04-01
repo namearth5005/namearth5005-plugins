@@ -1,0 +1,23 @@
+{
+  "name": "namearth5005-plugins",
+  "owner": {
+    "name": "namearth5005"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by namearth5005",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "remindctl-mcp",
+      "source": "./remindctl-mcp",
+      "description": "Apple Reminders integration via remindctl CLI. Add, show, edit, complete, and delete reminders from Claude Code.",
+      "version": "1.0.0",
+      "author": {
+        "name": "namearth5005"
+      },
+      "homepage": "https://github.com/namearth5005/namearth5005-plugins/tree/main/plugins/remindctl-mcp",
+      "license": "MIT"
+    }
+  ]
+}
