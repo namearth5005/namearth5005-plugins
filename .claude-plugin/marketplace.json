@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "remindctl-mcp",
-      "source": "./remindctl-mcp",
+      "source": "./plugins/remindctl-mcp",
       "description": "Apple Reminders integration via remindctl CLI. Add, show, edit, complete, and delete reminders from Claude Code.",
       "version": "1.0.0",
       "author": {
